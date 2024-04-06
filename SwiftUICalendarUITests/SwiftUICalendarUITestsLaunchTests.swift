@@ -1,13 +1,13 @@
 //
-//  SwiftCalendarUITestsLaunchTests.swift
-//  SwiftCalendarUITests
+//  SwiftUICalendarUITestsLaunchTests.swift
+//  SwiftUICalendarUITests
 //
-//  Created by Angelos Staboulis on 3/11/23.
+//  Created by Angelos Staboulis on 6/4/24.
 //
 
 import XCTest
 
-final class SwiftCalendarUITestsLaunchTests: XCTestCase {
+final class SwiftUICalendarUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
