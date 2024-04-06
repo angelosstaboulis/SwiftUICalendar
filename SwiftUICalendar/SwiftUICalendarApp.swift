@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftUICalendarApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView(selectedDay: 0, lastDay: 0, dateCurrent: "")
+            ContentView()
         }
     }
 }
